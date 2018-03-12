@@ -2,7 +2,7 @@
 
 ## 结构
 <pre>
-BNB_crawler/
+BNB_crawler
 ├── conf
 │   ├── config.py
 │   └── __init__.py
