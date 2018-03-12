@@ -5,7 +5,7 @@
 BNB_crawler/
 ├── conf
 │   ├── config.py
-│   ├── __init__.py
+│   └── __init__.py
 ├── deploy
 │   └── requirements.txt
 ├── env
@@ -14,5 +14,5 @@ BNB_crawler/
 └── utils
     ├── common.py
     ├── connections.py
-    ├── __init__.py
+    └── __init__.py
 </pre>
